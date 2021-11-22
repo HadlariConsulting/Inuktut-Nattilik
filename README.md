@@ -2,7 +2,7 @@
 Nattilik language tools
 
 ## About this repository
-The Inuktut-Nattilik repository houses the official language tools for the Nattilingmiutut (ᓇᑦᕠᓕᖕᒥᐅᑦ) language community, a Western dialect of Inuktut in Nunavut. The repository houses the official Nattilingmitut keyboard layout, as well as fonts that can be used in conjunction with this keyboard layout for typing in Nattilingmiutut.
+The Inuktut-Nattilik repository houses the official language tools for the Natchilingmiutut / ᓇᑦᕠᓕᖕᒥᐅᑦ (Nattilingmiutut) language community, a Western dialect of Inuktut in Nunavut. The repository houses the official Natchilingmiutut keyboard layout, as well as fonts that can be used in conjunction with this keyboard layout for typing in Natchilingmiutut.
 
 # Hadlari Consulting
 ## Welcome/ Tunngahugutti
