@@ -4,8 +4,8 @@
 <!--This layout implements the Nattilik shr and h-series with their new Unicode code points (v 14.0), in the same key positions as in the Euphemia 2.9.2 layout.-->
 <!---->
 <!---->
-<!--Last edited by Ukelele version 346 on 2021-11-19 at 15:30 (EST)-->
-<keyboard group="126" id="-1270" name="Nattilik - Inuktut" maxout="1">
+<!--Last edited by Ukelele version 346 on 2021-11-22 at 16:40 (EST)-->
+<keyboard group="126" id="-23860" name="Nattilik - Inuktut" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
         <layout first="18" last="18" mapSet="JIS" modifiers="Modifiers"/>
@@ -620,7 +620,7 @@
             <key code="41" output="Ŋ"/>
             <key code="42" output=""/>
             <key code="43" output="Š"/>
-            <key code="44" output=""/>
+            <key code="44" output="ᕚ"/>
             <key code="45" output="ᓈ"/>
             <key code="46" output="ᓛ"/>
             <key code="47" output="Ř"/>
