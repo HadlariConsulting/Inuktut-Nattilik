@@ -6,7 +6,7 @@ The Inuktut-Nattilik repository houses the official language tools for the Natch
 
 # Hadlari Consulting
 ## Welcome/ Tunngahugutti
-We offer a variety of Inuit language and cultural services, as well as arts training and consulting from our location in Cambridge Bay, Nunavut, Canada . Take a look through our site and get an idea of what we can offer. 
+We offer a variety of Inuit language and cultural services, as well as arts training and consulting from our location in Cambridge Bay, Nunavut, Canada . Take a look through our site [to see the range of what we offer](https://hadlariconsulting.com/). 
 
 # About Hadlari Consulting
 
