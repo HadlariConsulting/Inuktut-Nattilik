@@ -3,9 +3,9 @@ Natchilik language tools
 
 ## About this repository
 The Inuktut-Nattilik repository houses the official language tools for the Natchilingmiutut* / ᑐᓐᖓ𑪲ᒍᐃᑦᕠ
- (Nattilingmiutut) language community, a dialect of Inuktut in Nunavut representing the three East Qitirmiut/Kitikmeot communities of Kuugaarřuk / ᑰᒑᕐᕈᖪᒃ (Kugaaruk), Talurřuaq / ᑕᓗᕐᖪᐊᖅ (Taloyoak) and Gjoa Haven / ᐅᖅ𑪸ᖅᑑᖅ (Uqšuqtuuq). The repository houses the official Natchilingmiutut keyboard layout, as well as fonts that can be used in conjunction with this keyboard layout for typing in Natchilingmiutut.
+ (Nattilingmiutut) language community, a dialect of Inuktut in Nunavut representing the three East Qitirmiut/Kitikmeot communities of Kuugaarřuk / ᑰᒑᕐᖪᒃ (Kugaaruk), Talurřuaq / ᑕᓗᕐᖪᐊᖅ (Taloyoak) and Gjoa Haven / ᐅᖅ𑪸ᖅᑑᖅ (Uqšuqtuuq). The repository houses the official Natchilingmiutut keyboard layout, as well as fonts that can be used in conjunction with this keyboard layout for typing in Natchilingmiutut.
 
-###### * Note that the name 'Natchilingmiutut' is used to refer to the Natchilik language, rather than 'Nattilingmiutut' in this text, which is the accurate spelling of the language in the local dialect.
+###### * Note that the name 'Natchilingmiutut' is used to refer to the Natchilik language in this repository, rather than 'Nattilingmiutut' or 'Nattilik' in this text, which is the accurate spelling of the language in the local dialect. This is counter to the Unicode core spec and code chart name listings for the 'Nattilik' characters in the Unified Aboriginal Canadian Syllabics.
 
 
 
