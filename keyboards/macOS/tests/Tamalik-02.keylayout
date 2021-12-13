@@ -4,7 +4,7 @@
 <!--This layout implements the Nattilik shr and h-series with their new Unicode code points (v 14.0), in the same key positions as in the Euphemia 2.9.2 layout.-->
 <!---->
 <!---->
-<!--Last edited by Ukelele version 346 on 2021-12-08 at 21:02 (EST)-->
+<!--Last edited by Ukelele version 346 on 2021-12-13 at 16:43 (EST)-->
 <keyboard group="126" id="-29052" name="Tamalik-02" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -1027,18 +1027,18 @@
             <key code="15" output=""/>
             <key code="16" output="ᙴ"/>
             <key code="17" output="ᙲ"/>
-            <key code="18" output=""/>
-            <key code="19" output=""/>
-            <key code="20" output=""/>
-            <key code="21" output=""/>
-            <key code="22" output=""/>
-            <key code="23" output=""/>
-            <key code="24" output=""/>
-            <key code="25" output=""/>
-            <key code="26" output=""/>
-            <key code="27" output=""/>
-            <key code="28" output=""/>
-            <key code="29" output=""/>
+            <key code="18" output="1"/>
+            <key code="19" output="2"/>
+            <key code="20" output="3"/>
+            <key code="21" output="4"/>
+            <key code="22" output="6"/>
+            <key code="23" output="5"/>
+            <key code="24" output="="/>
+            <key code="25" output="9"/>
+            <key code="26" output="7"/>
+            <key code="27" output="-"/>
+            <key code="28" output="8"/>
+            <key code="29" output="0"/>
             <key code="30" output="˙"/>
             <key code="31" output="ᖡ"/>
             <key code="32" output="ᙶ"/>
