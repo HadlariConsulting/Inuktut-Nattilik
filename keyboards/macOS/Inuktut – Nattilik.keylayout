@@ -4,7 +4,7 @@
 <!--This layout implements the Nattilik shr and h-series with their new Unicode code points (v 14.0), in the same key positions as in the Euphemia 2.9.2 layout.-->
 <!---->
 <!---->
-<!--Last edited by Ukelele version 346 on 2021-12-13 at 16:43 (EST)-->
+<!--Last edited by Ukelele version 346 on 2022-10-06 at 15:59 (EDT)-->
 <keyboard group="126" id="-29052" name="Tamalik-02" maxout="1">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
