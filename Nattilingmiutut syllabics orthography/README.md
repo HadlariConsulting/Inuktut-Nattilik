@@ -1,7 +1,7 @@
 # Standardized Nattilik Orthography (ᐃᓄᒃᑐᑦ ᑎᑎᕋᐅ𑪱ᑦ)
 The standardized Nattilik orthography (ᐃᓄᒃᑐᑦ ᑎᑎᕋᐅ𑪱ᑦ) (inuktut titirauhiit) – Syllabics and Roman – is presented in the below chart:
 
-![Nattilik orthography chart](/figures/inuktut titrauhiit.jpeg)
+![Nattilik orthography chart](/figures/inuktut-titrauhiit.jpeg)
 
 ## Syllabics Orthography
 The standardized Nattilik Syllabics orthography is essentially the same as the repertoire as the standardized Inuktut (Inuktitut) Syllabics orthography for all of Nunavut (inuktut qaniujaaqpait), with the exception of 12 additional syllable sounds that are not used in any of the other syllabics-using dialects of Inuktut in Nunavut: 
