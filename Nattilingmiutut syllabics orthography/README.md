@@ -8,7 +8,7 @@ The standardized Nattilik Syllabics orthography is essentially the same as the r
 
 1. `(h) 𑪰 𑪲 𑪴`
 2. `(š) 𑪶 𑪸 𑪺`
-3. `(ř) ᖨ ᖪ ᖬ`
+3. `(ř) ᖨ ᖪ ᖬ ᖮ`
 4. `(ch) ᕠ ᕤ ᕦ`
 
 Full Nattilik Syllabics Orthography Character Set:
