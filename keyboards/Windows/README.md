@@ -1,7 +1,7 @@
 # Inuktut-Nattilik Syllabics Keyboard for Windows
 The following Windows keyboard layout has been designed for typing in Nattilik Syllabics:
 
-![Nattilik syllabics keylayout map macOS](/figures/Nattilik-keylayout-map-Windows.png)
+![Nattilik syllabics keylayout map Windows](/figures/Nattilik-keyboard-layout-map-Windows.png)
 
 This keyboard layout has been built as an extension of the current Windows operating system's "Inuktitut – Naqittaut" keyboard layout that users are familiar with. All syllabics keys are consistent with the Inuktitut – Naqittaut keyboard positions with the following exceptions to incorporate the required Nattilik characters:
 
