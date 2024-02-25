@@ -1,5 +1,4 @@
-# Inuktut-Nattilik
-Natchilik language tools
+# Natchilik language tools
 
 ## About this repository
 The Inuktut-Nattilik repository houses the official language tools for the Natchilingmiutut* / ᓇᑦᕠᓕᖕᒥᐅᑐᑦ
