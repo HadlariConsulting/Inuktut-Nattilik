@@ -1,0 +1,86 @@
+<?xml version="0.1" encoding="UTF-8"?>
+<!DOCTYPE keyboard3 SYSTEM "../dtd/ldmlKeyboard3.dtd">
+<keyboard3 locale="iu" conformsTo="techpreview">
+    <locales>
+        <!-- English is also an official language in Malta.-->
+        <locale id="iu" />
+    </locales>
+    <info name="Nattilik Syllabics" author="Kevin King" layout="QWERTY" indicator="NAT" />
+    <!-- MSA 100:2002 -->
+
+    <keys>
+        <!-- imports -->
+        <import base="cldr" path="techpreview/keys-Zyyy-punctuation.xml" />
+        <import base="cldr" path="techpreview/keys-Zyyy-currency.xml" />
+
+        <!-- Syllabics characters key definition -->
+        <key id="ng-iu" output="ᖕ" />
+        <key id="p-iu" output="ᑉ" />
+        <key id="p-iu" output="ᕐ" />
+        <key id="p-iu" output="ᒃ" />
+        <key id="p-iu" output="ᑦ" />
+        <key id="p-iu" output="ᖅ" />
+        <key id="p-iu" output="ᒻ" />
+        <key id="p-iu" output="ᓐ" />
+        <key id="p-iu" output="ᓪ" />
+        <key id="p-iu" output="ᔾ" />
+        <key id="v-iu" output="ᕝ" />
+
+        <key id="ngi-iu" output="ᖏ" />
+        <key id="ngii-iu" output="ᖐ" />
+        <key id="i-iu" output="ᐃ" />
+        <key id="ii-iu" output="ᐄ" />
+
+    
+     
+
+        <!-- example from Steven's Maltese keylayout; accent grave -->
+        <key id="a-grave" output="à" />
+        <key id="A-grave" output="À" />
+        <key id="e-grave" output="è" />
+        <key id="E-grave" output="È" />
+        <key id="i-grave" output="ì" />
+        <key id="I-grave" output="Ì" />
+        <key id="o-grave" output="ò" />
+        <key id="O-grave" output="Ò" />
+        <key id="u-grave" output="ù" />
+        <key id="U-grave" output="Ù" />
+
+    </keys>
+
+    <!-- This area defines the physical layout of the keys -->
+    <layers formId="iu">
+        <layer modifiers="none">
+            <row keys="c-tikka 1 2 3 4 5 6 7 8 9 0 hyphen equal" />
+            <row keys="q w e r t y u i o p g-tikka h-maqtugha z-tikka" />
+            <row keys="a s d f g h j k l semi-colon apos" />
+            <row keys="z x c v b n m comma period slash" />
+            <row keys="space" />
+        </layer>
+
+        <layer modifiers="shift">
+            <row keys="C-tikka bang at euro dollar percent caret amp asterisk open-paren close-paren underscore plus" />
+            <row keys="Q W E R T Y U I O P G-tikka H-maqtugha Z-tikka" />
+            <row keys="A S D F G H J K L colon double-quote" />
+            <row keys="Z X C V B N M open-angle close-angle question" />
+            <row keys="space" />
+        </layer>
+
+        <layer modifiers="altR">
+            <row keys="grave gap gap pound gap gap gap gap gap gap gap gap gap" />
+            <row keys="gap gap e-grave gap gap gap u-grave i-grave o-grave gap open-square close-square backslash" />
+            <row keys="a-grave gap gap gap gap gap gap gap gap gap gap" />
+            <row keys="gap gap gap gap gap gap gap gap gap gap" />
+            <row keys="space" />
+        </layer>
+
+        <layer modifiers="altR shift">
+            <row keys="tilde gap gap gap gap gap gap gap gap gap gap gap gap" />
+            <row keys="gap gap E-grave gap gap gap U-grave I-grave O-grave gap open-curly close-curly pipe" />
+            <row keys="A-grave gap gap gap gap gap gap gap gap gap gap" />
+            <row keys="gap gap gap gap gap gap gap gap gap gap" />
+            <row keys="space" />
+        </layer>
+    </layers>
+
+</keyboard3>
