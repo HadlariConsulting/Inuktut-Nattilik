@@ -15,16 +15,19 @@
 
         <!-- Syllabics characters key definition -->
         <key id="ng-iu" output="ᖕ" />
+        <key id="nng-iu" output="ᖖ" />
         <key id="p-iu" output="ᑉ" />
-        <key id="p-iu" output="ᕐ" />
-        <key id="p-iu" output="ᒃ" />
-        <key id="p-iu" output="ᑦ" />
-        <key id="p-iu" output="ᖅ" />
-        <key id="p-iu" output="ᒻ" />
-        <key id="p-iu" output="ᓐ" />
-        <key id="p-iu" output="ᓪ" />
-        <key id="p-iu" output="ᔾ" />
-        <key id="v-iu" output="ᕝ" />
+        <key id="r-iu" output="ᕐ" />
+        <key id="k-iu" output="ᒃ" />
+        <key id="t-iu" output="ᑦ" />
+        <key id="q-iu" output="ᖅ" />
+        <key id="m-iu" output="ᒻ" />
+        <key id="n-iu" output="ᓐ" />
+        <key id="l-iu" output="ᓪ" />
+        <key id="j-iu" output="ᔾ" />
+        <key id="rh-iu" output="ᖮ" />
+        <key id="s-iu" output="ᔅ" />
+        <key id="g-iu" output="ᒡ" />
 
         <key id="ngi-iu" output="ᖏ" />
         <key id="ngii-iu" output="ᖐ" />
