@@ -14,12 +14,10 @@
         <import base="cldr" path="techpreview/keys-Zyyy-currency.xml" />
 
         <!-- Syllabics characters key definition -->
-        <key id="ng-iu" output="ᖕ" />
-        <key id="nng-iu" output="ᖖ" />
         <key id="p-iu" output="ᑉ" />
-        <key id="r-iu" output="ᕐ" />
-        <key id="k-iu" output="ᒃ" />
         <key id="t-iu" output="ᑦ" />
+        <key id="k-iu" output="ᒃ" />
+        <key id="r-iu" output="ᕐ" />
         <key id="q-iu" output="ᖅ" />
         <key id="m-iu" output="ᒻ" />
         <key id="n-iu" output="ᓐ" />
@@ -28,6 +26,8 @@
         <key id="rh-iu" output="ᖮ" />
         <key id="s-iu" output="ᔅ" />
         <key id="g-iu" output="ᒡ" />
+        <key id="q-iu" output="ᖅ" />
+        <key id="ng-iu" output="ᖕ" />
 
         <key id="ngi-iu" output="ᖏ" />
         <key id="ngii-iu" output="ᖐ" />
