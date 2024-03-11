@@ -13,45 +13,160 @@
         <import base="cldr" path="techpreview/keys-Zyyy-punctuation.xml" />
         <import base="cldr" path="techpreview/keys-Zyyy-currency.xml" />
 
-        <!-- Syllabics characters key definition -->
+        <!-- Note that the standardized Inuktut Qaliujaaqpait roman transliteration system is used for the below key ids. This may differ from the character names associated with these Unicode characters in the UCAS code charts-->
+
+        <!-- Syllabics finals key definition -->
+        <key id="i-iu" output="ᐃ" />
+        <key id="u-iu" output="ᐅ" />
+        <key id="a-iu" output="ᐊ" />
+        <key id="ii-iu" output="ᐄ" />
+        <key id="uu-iu" output="ᐆ" />
+        <key id="aa-iu" output="ᐋ" />
+
+        <key id="pi-iu" output="ᐱ" />
+        <key id="pu-iu" output="ᐳ" />
+        <key id="pa-iu" output="ᐸ" />
+        <key id="pii-iu" output="ᐱ" />
+        <key id="puu-iu" output="ᐳ" />
+        <key id="paa-iu" output="ᐸ" />
         <key id="p-iu" output="ᑉ" />
+
+        <key id="ti-iu" output="ᑎ" />
+        <key id="tu-iu" output="ᑐ" />
+        <key id="ta-iu" output="ᑐ" />
+        <key id="tii-iu" output="ᑎ" />
+        <key id="tuu-iu" output="ᑐ" />
+        <key id="taa-iu" output="ᑐ" />
         <key id="t-iu" output="ᑦ" />
+
+        <key id="ki-iu" output="ᑭ" />
+        <key id="ku-iu" output="ᑯ" />
+        <key id="ka-iu" output="ᑲ" />
+        <key id="kii-iu" output="ᑭ" />
+        <key id="kuu-iu" output="ᑯ" />
+        <key id="kaa-iu" output="ᑲ" />
         <key id="k-iu" output="ᒃ" />
-        <key id="r-iu" output="ᕐ" />
-        <key id="q-iu" output="ᖅ" />
-        <key id="m-iu" output="ᒻ" />
-        <key id="n-iu" output="ᓐ" />
-        <key id="l-iu" output="ᓪ" />
-        <key id="j-iu" output="ᔾ" />
-        <key id="rh-iu" output="ᖮ" />
-        <key id="s-iu" output="ᔅ" />
+
+        <key id="gi-iu" output="ᒋ" />
+        <key id="gu-iu" output="ᒍ" />
+        <key id="ga-iu" output="ᒐ" />
+        <key id="gii-iu" output="ᒋ" />
+        <key id="guu-iu" output="ᒍ" />
+        <key id="gaa-iu" output="ᒐ" />
         <key id="g-iu" output="ᒡ" />
+
+        <key id="mi-iu" output="ᒥ" />
+        <key id="mu-iu" output="ᒧ" />
+        <key id="ma-iu" output="ᒪ" />
+        <key id="mii-iu" output="ᒥ" />
+        <key id="muu-iu" output="ᒧ" />
+        <key id="maa-iu" output="ᒪ" />
+        <key id="m-iu" output="ᒻ" />
+
+        <key id="ni-iu" output="ᓂ" />
+        <key id="nu-iu" output="ᓄ" />
+        <key id="na-iu" output="ᓇ" />
+        <key id="nii-iu" output="ᓂ" />
+        <key id="nuu-iu" output="ᓄ" />
+        <key id="naa-iu" output="ᓇ" />
+        <key id="n-iu" output="ᓐ" />
+
+        <key id="si-iu" output="ᓯ" />
+        <key id="su-iu" output="ᓱ" />
+        <key id="sa-iu" output="ᓴ" />
+        <key id="sii-iu" output="ᓯ" />
+        <key id="suu-iu" output="ᓱ" />
+        <key id="saa-iu" output="ᓴ" />
+        <key id="s-iu" output="ᔅ" />
+
+        <key id="li-iu" output="ᓕ" />
+        <key id="lu-iu" output="ᓗ" />
+        <key id="la-iu" output="ᓚ" />
+        <key id="lii-iu" output="ᓕ" />
+        <key id="luu-iu" output="ᓗ" />
+        <key id="laa-iu" output="ᓚ" />
+        <key id="l-iu" output="ᓪ" />
+
+        <key id="ji-iu" output="ᔨ" />
+        <key id="ju-iu" output="ᔪ" />
+        <key id="ja-iu" output="ᔭ" />
+        <key id="jii-iu" output="ᔨ" />
+        <key id="juu-iu" output="ᔪ" />
+        <key id="jaa-iu" output="ᔭ" />
+        <key id="j-iu" output="ᔾ" />
+
+        <key id="vi-iu" output="ᕕ" />
+        <key id="vu-iu" output="ᕗ" />
+        <key id="va-iu" output="ᕙ" />
+        <key id="vii-iu" output="ᕕ" />
+        <key id="vuu-iu" output="ᕗ" />
+        <key id="vaa-iu" output="ᕙ" />
+        <key id="v-iu" output="ᕝ" />
+
+        <key id="ri-iu" output="ᕆ" />
+        <key id="ru-iu" output="ᕈ" />
+        <key id="ra-iu" output="ᕋ" />
+        <key id="rii-iu" output="ᕆ" />
+        <key id="ruu-iu" output="ᕈ" />
+        <key id="raa-iu" output="ᕋ" />
+        <key id="r-iu" output="ᕐ" />
+
+        <key id="qi-iu" output="ᕿ" />
+        <key id="qu-iu" output="ᖁ" />
+        <key id="qa-iu" output="ᖃ" />
+        <key id="qii-iu" output="ᕿ" />
+        <key id="quu-iu" output="ᖁ" />
+        <key id="qaa-iu" output="ᖃ" />
         <key id="q-iu" output="ᖅ" />
-        <key id="ng-iu" output="ᖕ" />
 
         <key id="ngi-iu" output="ᖏ" />
-        <key id="ngii-iu" output="ᖐ" />
-        <key id="i-iu" output="ᐃ" />
-        <key id="ii-iu" output="ᐄ" />
+        <key id="ngu-iu" output="ᖑ" />
+        <key id="nga-iu" output="ᖓ" />
+        <key id="ngii-iu" output="ᖏ" />
+        <key id="nguu-iu" output="ᖑ" />
+        <key id="ngaa-iu" output="ᖓ" />
+        <key id="ng-iu" output="ᖕ" />
 
-    
-     
+        <key id="hli-iu" output="ᖠ" />
+        <key id="hlu-iu" output="ᖢ" />
+        <key id="hla-iu" output="ᖤ" />
+        <key id="hlii-iu" output="ᖠ" />
+        <key id="hluu-iu" output="ᖢ" />
+        <key id="hlaa-iu" output="ᖤ" />
+        <key id="hl-iu" output="ᖦ" />
 
-        <!-- example from Steven's Maltese keylayout; accent grave -->
-        <key id="a-grave" output="à" />
-        <key id="A-grave" output="À" />
-        <key id="e-grave" output="è" />
-        <key id="E-grave" output="È" />
-        <key id="i-grave" output="ì" />
-        <key id="I-grave" output="Ì" />
-        <key id="o-grave" output="ò" />
-        <key id="O-grave" output="Ò" />
-        <key id="u-grave" output="ù" />
-        <key id="U-grave" output="Ù" />
+        <key id="rhi-iu" output="ᖨ" />
+        <key id="rhu-iu" output="ᖪ" />
+        <key id="rha-iu" output="ᖬ" />
+        <key id="rhii-iu" output="ᖨ" />
+        <key id="rhuu-iu" output="ᖪ" />
+        <key id="rhaa-iu" output="ᖬ" />
+        <key id="rh-iu" output="ᖮ" />
+
+        <key id="hi-iu" output="𑪰" />
+        <key id="hu-iu" output="𑪲" />
+        <key id="ha-iu" output="𑪴" />
+        <key id="hii-iu" output="𑪰" />
+        <key id="huu-iu" output="𑪲" />
+        <key id="haa-iu" output="𑪴" />
+
+        <key id="shri-iu" output="𑪶" />
+        <key id="shru-iu" output="𑪸" />
+        <key id="shra-iu" output="𑪺" />
+        <key id="shrii-iu" output="𑪶" />
+        <key id="shruu-iu" output="𑪸" />
+        <key id="shraa-iu" output="𑪺" />
+
+        <key id="chi-iu" output="ᕠ" />
+        <key id="chu-iu" output="ᕤ" />
+        <key id="cha-iu" output="ᕦ" />
+        <key id="chii-iu" output="ᕠ" />
+        <key id="chuu-iu" output="ᕤ" />
+        <key id="chaa-iu" output="ᕦ" />
 
     </keys>
 
-    <!-- This area defines the physical layout of the keys -->
+    <!-- This area defines the physical layout of the keys. -->
     <layers formId="iu">
         <layer modifiers="none">
             <row keys="c-tikka 1 2 3 4 5 6 7 8 9 0 hyphen equal" />
