@@ -26,143 +26,143 @@
         <key id="pi-iu" output="ᐱ" />
         <key id="pu-iu" output="ᐳ" />
         <key id="pa-iu" output="ᐸ" />
-        <key id="pii-iu" output="ᐱ" />
-        <key id="puu-iu" output="ᐳ" />
-        <key id="paa-iu" output="ᐸ" />
+        <key id="pii-iu" output="ᐲ" />
+        <key id="puu-iu" output="ᐴ" />
+        <key id="paa-iu" output="ᐹ" />
         <key id="p-iu" output="ᑉ" />
 
         <key id="ti-iu" output="ᑎ" />
         <key id="tu-iu" output="ᑐ" />
-        <key id="ta-iu" output="ᑐ" />
-        <key id="tii-iu" output="ᑎ" />
-        <key id="tuu-iu" output="ᑐ" />
-        <key id="taa-iu" output="ᑐ" />
+        <key id="ta-iu" output="ᑕ" />
+        <key id="tii-iu" output="ᑏ" />
+        <key id="tuu-iu" output="ᑑ" />
+        <key id="taa-iu" output="ᑖ" />
         <key id="t-iu" output="ᑦ" />
 
         <key id="ki-iu" output="ᑭ" />
         <key id="ku-iu" output="ᑯ" />
         <key id="ka-iu" output="ᑲ" />
-        <key id="kii-iu" output="ᑭ" />
-        <key id="kuu-iu" output="ᑯ" />
-        <key id="kaa-iu" output="ᑲ" />
+        <key id="kii-iu" output="ᑮ" />
+        <key id="kuu-iu" output="ᑰ" />
+        <key id="kaa-iu" output="ᖄ" />
         <key id="k-iu" output="ᒃ" />
 
         <key id="gi-iu" output="ᒋ" />
         <key id="gu-iu" output="ᒍ" />
         <key id="ga-iu" output="ᒐ" />
-        <key id="gii-iu" output="ᒋ" />
-        <key id="guu-iu" output="ᒍ" />
-        <key id="gaa-iu" output="ᒐ" />
+        <key id="gii-iu" output="ᒌ" />
+        <key id="guu-iu" output="ᒎ" />
+        <key id="gaa-iu" output="ᒑ" />
         <key id="g-iu" output="ᒡ" />
 
         <key id="mi-iu" output="ᒥ" />
         <key id="mu-iu" output="ᒧ" />
         <key id="ma-iu" output="ᒪ" />
-        <key id="mii-iu" output="ᒥ" />
-        <key id="muu-iu" output="ᒧ" />
-        <key id="maa-iu" output="ᒪ" />
+        <key id="mii-iu" output="ᒦ" />
+        <key id="muu-iu" output="ᒨ" />
+        <key id="maa-iu" output="ᒫ" />
         <key id="m-iu" output="ᒻ" />
 
         <key id="ni-iu" output="ᓂ" />
         <key id="nu-iu" output="ᓄ" />
         <key id="na-iu" output="ᓇ" />
-        <key id="nii-iu" output="ᓂ" />
-        <key id="nuu-iu" output="ᓄ" />
-        <key id="naa-iu" output="ᓇ" />
+        <key id="nii-iu" output="ᓃ" />
+        <key id="nuu-iu" output="ᓅ" />
+        <key id="naa-iu" output="ᓈ" />
         <key id="n-iu" output="ᓐ" />
 
         <key id="si-iu" output="ᓯ" />
         <key id="su-iu" output="ᓱ" />
         <key id="sa-iu" output="ᓴ" />
-        <key id="sii-iu" output="ᓯ" />
-        <key id="suu-iu" output="ᓱ" />
-        <key id="saa-iu" output="ᓴ" />
+        <key id="sii-iu" output="ᓰ" />
+        <key id="suu-iu" output="ᓲ" />
+        <key id="saa-iu" output="ᓵ" />
         <key id="s-iu" output="ᔅ" />
 
         <key id="li-iu" output="ᓕ" />
         <key id="lu-iu" output="ᓗ" />
         <key id="la-iu" output="ᓚ" />
-        <key id="lii-iu" output="ᓕ" />
-        <key id="luu-iu" output="ᓗ" />
-        <key id="laa-iu" output="ᓚ" />
+        <key id="lii-iu" output="ᓖ" />
+        <key id="luu-iu" output="ᓘ" />
+        <key id="laa-iu" output="ᓛ" />
         <key id="l-iu" output="ᓪ" />
 
         <key id="ji-iu" output="ᔨ" />
         <key id="ju-iu" output="ᔪ" />
         <key id="ja-iu" output="ᔭ" />
-        <key id="jii-iu" output="ᔨ" />
-        <key id="juu-iu" output="ᔪ" />
-        <key id="jaa-iu" output="ᔭ" />
+        <key id="jii-iu" output="ᔩ" />
+        <key id="juu-iu" output="ᔫ" />
+        <key id="jaa-iu" output="ᔮ" />
         <key id="j-iu" output="ᔾ" />
 
         <key id="vi-iu" output="ᕕ" />
         <key id="vu-iu" output="ᕗ" />
         <key id="va-iu" output="ᕙ" />
-        <key id="vii-iu" output="ᕕ" />
-        <key id="vuu-iu" output="ᕗ" />
-        <key id="vaa-iu" output="ᕙ" />
+        <key id="vii-iu" output="ᕖ" />
+        <key id="vuu-iu" output="ᕘ" />
+        <key id="vaa-iu" output="ᕚ" />
         <key id="v-iu" output="ᕝ" />
 
         <key id="ri-iu" output="ᕆ" />
         <key id="ru-iu" output="ᕈ" />
         <key id="ra-iu" output="ᕋ" />
-        <key id="rii-iu" output="ᕆ" />
-        <key id="ruu-iu" output="ᕈ" />
-        <key id="raa-iu" output="ᕋ" />
+        <key id="rii-iu" output="ᕇ" />
+        <key id="ruu-iu" output="ᕉ" />
+        <key id="raa-iu" output="ᕌ" />
         <key id="r-iu" output="ᕐ" />
 
         <key id="qi-iu" output="ᕿ" />
         <key id="qu-iu" output="ᖁ" />
         <key id="qa-iu" output="ᖃ" />
-        <key id="qii-iu" output="ᕿ" />
-        <key id="quu-iu" output="ᖁ" />
-        <key id="qaa-iu" output="ᖃ" />
+        <key id="qii-iu" output="ᖀ" />
+        <key id="quu-iu" output="ᖂ" />
+        <key id="qaa-iu" output="ᖄ" />
         <key id="q-iu" output="ᖅ" />
 
         <key id="ngi-iu" output="ᖏ" />
         <key id="ngu-iu" output="ᖑ" />
         <key id="nga-iu" output="ᖓ" />
-        <key id="ngii-iu" output="ᖏ" />
-        <key id="nguu-iu" output="ᖑ" />
-        <key id="ngaa-iu" output="ᖓ" />
+        <key id="ngii-iu" output="ᖐ" />
+        <key id="nguu-iu" output="ᖒ" />
+        <key id="ngaa-iu" output="ᖔ" />
         <key id="ng-iu" output="ᖕ" />
 
         <key id="hli-iu" output="ᖠ" />
         <key id="hlu-iu" output="ᖢ" />
         <key id="hla-iu" output="ᖤ" />
-        <key id="hlii-iu" output="ᖠ" />
-        <key id="hluu-iu" output="ᖢ" />
-        <key id="hlaa-iu" output="ᖤ" />
+        <key id="hlii-iu" output="ᖡ" />
+        <key id="hluu-iu" output="ᖣ" />
+        <key id="hlaa-iu" output="ᖥ" />
         <key id="hl-iu" output="ᖦ" />
 
         <key id="rhi-iu" output="ᖨ" />
         <key id="rhu-iu" output="ᖪ" />
         <key id="rha-iu" output="ᖬ" />
-        <key id="rhii-iu" output="ᖨ" />
-        <key id="rhuu-iu" output="ᖪ" />
-        <key id="rhaa-iu" output="ᖬ" />
+        <key id="rhii-iu" output="ᖩ" />
+        <key id="rhuu-iu" output="ᖫ" />
+        <key id="rhaa-iu" output="ᖭ" />
         <key id="rh-iu" output="ᖮ" />
 
         <key id="hi-iu" output="𑪰" />
         <key id="hu-iu" output="𑪲" />
         <key id="ha-iu" output="𑪴" />
-        <key id="hii-iu" output="𑪰" />
-        <key id="huu-iu" output="𑪲" />
-        <key id="haa-iu" output="𑪴" />
+        <key id="hii-iu" output="𑪱" />
+        <key id="huu-iu" output="𑪳" />
+        <key id="haa-iu" output="𑪵" />
 
         <key id="shri-iu" output="𑪶" />
         <key id="shru-iu" output="𑪸" />
         <key id="shra-iu" output="𑪺" />
-        <key id="shrii-iu" output="𑪶" />
-        <key id="shruu-iu" output="𑪸" />
-        <key id="shraa-iu" output="𑪺" />
+        <key id="shrii-iu" output="𑪷" />
+        <key id="shruu-iu" output="𑪹" />
+        <key id="shraa-iu" output="𑪻" />
 
         <key id="chi-iu" output="ᕠ" />
         <key id="chu-iu" output="ᕤ" />
         <key id="cha-iu" output="ᕦ" />
-        <key id="chii-iu" output="ᕠ" />
-        <key id="chuu-iu" output="ᕤ" />
-        <key id="chaa-iu" output="ᕦ" />
+        <key id="chii-iu" output="ᕢ" />
+        <key id="chuu-iu" output="ᕥ" />
+        <key id="chaa-iu" output="ᕧ" />
 
     </keys>
 
